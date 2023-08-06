@@ -6,3 +6,9 @@
 - [x] Front-end com Angular
 - [x] Back-end com SpringBoot e MySql
 - [x] Validações
+
+
+
+### Link do Back-end:
+
+https://github.com/Andre-coder365/helpdesk-backend
