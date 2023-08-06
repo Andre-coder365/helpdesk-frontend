@@ -11,4 +11,10 @@
 
 ### Link do Back-end:
 
-https://github.com/Andre-coder365/helpdesk-backend
+https://github.com/Andre-coder365/helpdesk-
+
+
+
+### Link do projeto rodando
+
+https://helpdesk-frontend-lvrogi7d0-andre-coder365.vercel.app/login
