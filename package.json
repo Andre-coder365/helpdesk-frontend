@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-scripts --openssl-legacy-provider build",
+    "start": "ng serve",
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider",
     "watch": "ng build --watch --configuration development"
   },
   "engines": {
