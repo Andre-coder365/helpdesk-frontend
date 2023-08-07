@@ -14,7 +14,3 @@
 https://github.com/Andre-coder365/helpdesk-backend
 
 
-
-### Link do projeto rodando
-
-https://helpdesk-frontend-lvrogi7d0-andre-coder365.vercel.app/login
