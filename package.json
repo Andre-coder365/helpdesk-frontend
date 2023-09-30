@@ -8,7 +8,7 @@
     "watch": "ng build --watch --configuration development"
   },
   "engines": {
-    "node": "14.x"
+    "node": "16.x"
   },
 
   "private": true,
