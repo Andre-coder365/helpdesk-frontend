@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "--output public export NODE_OPTIONS=--openssl-legacy-provider  next build",
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider --output public   next build",
     "watch": "ng build --watch --configuration development "
   },
   "engines": {
